@@ -1,0 +1,23 @@
+{
+  "name": "taskmarket-live-visualizer",
+  "version": "1.0.0",
+  "description": "Open-source (MIT), read-only live market visualizer for Taskmarket across Tempo (4217 OUSD) and Base (8453 USDC).",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test/verify.mjs"
+  },
+  "keywords": [
+    "taskmarket",
+    "visualizer",
+    "tempo",
+    "base",
+    "ousd",
+    "usdc",
+    "open-source"
+  ]
+}
