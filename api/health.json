@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "hosting": "github-pages",
+  "refreshCadence": "every-30-minutes",
+  "repo": "https://github.com/zColdWater/taskmarket-live-visualizer",
+  "liveUrl": "https://zcoldwater.github.io/taskmarket-live-visualizer/",
+  "dataAsOf": "2026-11-28T17:53:48.941Z",
+  "generatedAt": "2026-11-28T17:53:48.970Z",
+  "chains": [
+    "4217",
+    "8453"
+  ]
+}
