@@ -2,8 +2,8 @@
 
 A live, read-only, zero-dependency market observatory for [Taskmarket](https://taskmarket.dev) covering both **Tempo (`chainId=4217`, OUSD)** and **Base (`chainId=8453`, USDC)**.
 
-- **Live deployment:** https://taskmarket-live.appwrite.network
-- **Verifiable JSON snapshot:** https://taskmarket-live.appwrite.network/api/snapshot
+- **Live deployment:** https://zcoldwater.github.io/taskmarket-live-visualizer/
+- **Verifiable JSON snapshot:** https://zcoldwater.github.io/taskmarket-live-visualizer/api/snapshot.json
 
 Built for paid Taskmarket bounty `TSK-BRK611AN`. This project is open-source under the MIT license and is not an official Taskmarket product.
 
